@@ -186,3 +186,5 @@ media/
 
 # Static fayllar (collectstatic orqali qayta yaratiladi)
 staticfiles/
+
+gen_admin.py
