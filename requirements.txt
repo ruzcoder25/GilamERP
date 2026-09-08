@@ -1,0 +1,17 @@
+Django>=5.2
+djangorestframework>=3.17
+djangorestframework-simplejwt>=5.5
+drf-spectacular>=0.29
+django-filter>=25
+django-environ>=0.13
+django-cors-headers>=4.9
+psycopg2-binary>=2.9
+pillow>=12.2
+gunicorn>=23.0
+celery>=5.4
+redis>=5.2
+django-celery-beat>=2.7
+django-redis>=5.4
+django-auditlog>=3.0      # apps.py — auditlog avtomatik ro'yxat uchun
+django-unfold>=0.50       # admin.py — BaseModelAdmin uchun
+openpyxl>=3.1             # exports.py — Excel eksport uchun
